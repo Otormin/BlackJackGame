@@ -68,6 +68,17 @@ button:hover{
     font-size: large;
 }
 
+a{
+    padding: 10px;
+    color: goldenrod;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 25rem;
+    font-size: large;
+}
+
 #nameInput:hover{
     background-color: red;
 }
@@ -122,4 +133,8 @@ input::placeholder{
 #quit-btn:hover{
     background-color: red;
     color: white;
+}
+
+h3{
+    margin-top: 40px;
 }
